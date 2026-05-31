@@ -1,0 +1,19 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": true,
+    "Categorys": [
+        {
+            "Category": "Community Labs",
+            "Worlds": [
+                {
+                    "ID": "wrld_e9e8b352-a94b-49cf-9d52-e2d8b09a5632",
+                    "Name": "洗濯バサミギャラクシー"
+                },
+                {
+                    "ID": "wrld_1bb600a3-709c-4283-8b28-b02a12f0dc0e",
+                    "Name": "test"
+                }
+            ]
+        }
+    ]
+}
